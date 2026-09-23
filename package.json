@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "next lint",
     "test:ai": "python test/test_ai_concurrency.py",
-    "test:security": "node test/test_security_scenarios.mjs"
+    "test:security": "node test/test_security_scenarios.mjs",
+    "test:flows": "node scripts/test_flows.js"
   },
   "dependencies": {
     "clsx": "^2.1.1",
