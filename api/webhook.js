@@ -113,6 +113,9 @@ ${detailPesan}
         });
         const tgData = await tgRes.json();
         telegramSent = tgData.ok;
+        if (!tgData.ok) {
+          telegramError = tgData.description;
+        }
       } catch (err) {
         telegramError = err.message;
       }

@@ -3,8 +3,8 @@ import crypto from 'crypto';
 
 // Setup environment variables (Zero hardcoded secrets in logic)
 process.env.HMAC_SECRET = process.env.HMAC_SECRET || 'cyber_soc_secure_hmac_secret_2026_key_super_safe';
-process.env.TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '777888999:AAFakeTokenForLocalTestingSimulated_OK';
-process.env.TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || '-1009988776655';
+process.env.TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '8886739791:AAE0xHTkhwU_caj8dYD48w9uo0K1SjQY0bc';
+process.env.TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || '7182134624';
 
 const PORT = 4010;
 const WEBHOOK_URL = `http://127.0.0.1:${PORT}/api/webhook`;
