@@ -1,7 +1,7 @@
 # SENTINEL-SOC: Real-Time Database Security Monitoring & Dual AI Threat Intelligence Platform
 
 [![CI/CD Pipeline](https://github.com/Rudin1409/INTEGRATED-WEB/actions/workflows/deploy.yml/badge.svg)](https://github.com/Rudin1409/INTEGRATED-WEB/actions/workflows/deploy.yml)
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://vercel.com)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Production-black?logo=vercel)](https://intgrated-web.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?logo=next.js)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python_3.14-009688?logo=fastapi)](https://fastapi.tiangolo.com)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Plus_Jakarta_Sans-38bdf8?logo=tailwindcss)](https://tailwindcss.com)

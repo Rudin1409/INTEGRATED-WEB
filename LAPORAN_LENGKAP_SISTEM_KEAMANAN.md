@@ -2,7 +2,8 @@
 ## REAL-TIME MONITORING, HMAC-SHA256 WEBHOOK & DUAL ASYNCHRONOUS AI THREAT INTELLIGENCE
 **Standar Format Akademik & Teknis**: Kertas A4 | Font: Times New Roman 12pt | Spasi: 1.5  
 **File Word Resmi (.docx)**: [`LAPORAN_LENGKAP_SISTEM_KEAMANAN.docx`](LAPORAN_LENGKAP_SISTEM_KEAMANAN.docx)  
-**Repository GitHub**: [https://github.com/Rudin1409/INTEGRATED-WEB](https://github.com/Rudin1409/INTEGRATED-WEB)
+**Repository GitHub**: [https://github.com/Rudin1409/INTEGRATED-WEB](https://github.com/Rudin1409/INTEGRATED-WEB)  
+**URL Vercel Live Production**: [https://intgrated-web.vercel.app/](https://intgrated-web.vercel.app/)
 
 ---
 

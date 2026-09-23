@@ -116,7 +116,7 @@ def generate_full_report(output_path: str):
     # HEADER / COVER
     # --------------------------------------------------------------------------
     p_title("LAPORAN LENGKAP PROYEK SISTEM KEAMANAN BASIS DATA:\nREAL-TIME MONITORING, HMAC-SHA256 WEBHOOK & DUAL ASYNCHRONOUS AI THREAT INTELLIGENCE")
-    p_sub("Standar Dokumen Akademik & Teknis | Format: Kertas A4 | Font: Times New Roman 12pt | Spasi: 1.5\nRepository: https://github.com/Rudin1409/INTEGRATED-WEB")
+    p_sub("Standar Dokumen Akademik & Teknis | Format: Kertas A4 | Font: Times New Roman 12pt | Spasi: 1.5\nRepository: https://github.com/Rudin1409/INTEGRATED-WEB\nURL Vercel Live Production: https://intgrated-web.vercel.app/")
 
     # --------------------------------------------------------------------------
     # BAB I: PENDAHULUAN

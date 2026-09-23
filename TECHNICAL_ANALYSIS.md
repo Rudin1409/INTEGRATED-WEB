@@ -1,7 +1,8 @@
 # DOKUMEN ANALISIS TEKNIS SISTEM KEAMANAN:
 ## REAL-TIME DATABASE THREAT MONITORING & DUAL AI ENGINE
 **Format Dokumen Resmi**: Standar Kertas A4 | Font: Times New Roman 12pt | Spasi: 1.5  
-**File Word (.docx)**: [`Technical_Analysis_System_Security_Monitoring.docx`](file:///e:/laragon/www/Web-sistem%20Keamanan/Technical_Analysis_System_Security_Monitoring.docx)
+**File Word (.docx)**: [`Technical_Analysis_System_Security_Monitoring.docx`](file:///e:/laragon/www/Web-sistem%20Keamanan/Technical_Analysis_System_Security_Monitoring.docx)  
+**URL Vercel Live Production**: [https://intgrated-web.vercel.app/](https://intgrated-web.vercel.app/)
 
 ---
 
